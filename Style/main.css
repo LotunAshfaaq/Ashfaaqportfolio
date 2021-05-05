@@ -102,7 +102,7 @@ button:active{
 	transform:scale(1.1);
 }
 .model{
-	height:375px;
+	height:400px;
 	position: absolute;
 	bottom:40px;
 	left:60%;
